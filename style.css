@@ -49,7 +49,7 @@ TYPOGRAPHY
 */
 h1{
     margin:0;
-    padding:150px 0 50px 0;
+    padding:50px 0 50px 0;
     font-family: 'Oswald', sans-serif;
     font-size:54px;
 }
@@ -72,4 +72,25 @@ nav{
     background:#FFF;
     border-top:#CCC;
     padding:20px;
+}
+
+/*
+=================================================
+MISC
+=================================================
+*/
+.earth{
+    max-height:200px;
+
+}
+
+
+/*
+=================================================
+MISC
+=================================================
+*/
+.earth{
+    max-height:200px;
+
 }
